@@ -24,7 +24,7 @@
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- HTML e CSS
+- HTML5, CSS3, JS Chakra UI, React.js e Vite 
 - Git e Github
 - Figma
 - Phosphor Icons
